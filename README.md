@@ -10,8 +10,8 @@ This is a project in web automation on the Printworks BD, which consist of the f
 
 ## Screenshots
 
-### Form
-![]()
+### Allure Report 1
+![](https://github.com/SaidulHaq/Selenium-Class-Project/blob/main/r1.jpg)
 
-### Dropdown
+### Allure Report 2
 ![]()
