@@ -1,4 +1,4 @@
-# Selenium-Class-Project
+# Selenium Class Project - Printworks BD
 
 This is a project in web automation on the Printworks BD, which consist of the following task:
 - Launch browser, Open URL then Signup, Login and Logout.
