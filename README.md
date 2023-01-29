@@ -10,8 +10,8 @@ This is a project in web automation on the Printworks BD, which consist of the f
 
 ## Screenshots
 
-### Allure Report 1
+### Allure Report
 ![](https://github.com/SaidulHaq/Selenium-Class-Project/blob/main/r1.jpg)
 
-### Allure Report 2
-![]()
+### Allure Report Graph
+![](https://github.com/SaidulHaq/Selenium-Class-Project/blob/main/r2.jpg)
